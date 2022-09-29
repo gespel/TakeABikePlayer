@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TakeABikePlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TakeABikePlayer_jar</output-path>
+    <root id="archive" name="TakeABikePlayer.jar">
+      <element id="module-output" name="TakeABikePlayer" />
+    </root>
+  </artifact>
+</component>
